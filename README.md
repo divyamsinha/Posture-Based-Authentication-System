@@ -20,8 +20,8 @@ pip install opencv-python==4.5.5.62 <br />
 
 
 def Encode_Images(path): <br />
-<t />   ce = create_Encoding(path)<br />
-<t />   ce.encode_image()<br />
+<pre />   ce = create_Encoding(path)<br />
+<pre />   ce.encode_image()<br />
 
 
 Pass the file location where the photo of the users are stored with a '/' at the end
