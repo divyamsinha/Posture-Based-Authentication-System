@@ -8,12 +8,12 @@ Now the program will create an encoding of the user's face and try to match it w
 
 ## Installation 
 ```
-pip install opencv-python==4.5.5.62 <br />
-pip install face-recognition==1.3.0 #(first install visual studio in the system) <br />
-pip install matplotlib==3.1.1 <br />
-pip install mediapipe==0.8.9.1 <br />
-pip install numpy==1.16.5 <br />
-pip install opencv-python==4.5.5.62 <br />
+pip install opencv-python==4.5.5.62
+pip install face-recognition==1.3.0 #(first install visual studio in the system)
+pip install matplotlib==3.1.1 
+pip install mediapipe==0.8.9.1 
+pip install numpy==1.16.5 
+pip install opencv-python==4.5.5.62 
 ```
 
 ## Face Encoding.py
