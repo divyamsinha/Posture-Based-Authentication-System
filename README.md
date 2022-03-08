@@ -19,17 +19,14 @@ pip install opencv-python==4.5.5.62 <br />
 ## Face Encoding.py
 
 <pre>
-def Encode_Images(path): 
-    ce = create_Encoding(path)
-    ce.encode_image()
- </pre>
-
+Encode_Images(path): 
+</pre>
 
 Pass the file location where the photo of the users are stored with a '/' at the end
 
 ## Posture Based Authentication System.py
-
+<pre>
 Verify(Gesture_Image,Selfie_Image)
-
+</pre>
 Pass the provided Gesture and the selfie of the user mimicing the user
 
