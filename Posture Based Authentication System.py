@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 import mediapipe as mp
-import math
 import face_recognition as fr
 import pickle
 import os
