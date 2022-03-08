@@ -28,5 +28,5 @@ Pass the file location where the photo of the users are stored with a '/' at the
 <pre>
 Verify(Gesture_Image,Selfie_Image)
 </pre>
-Pass the provided Gesture and the selfie of the user mimicing the user
+Pass the provided Gesture and the selfie of the user mimicking the user
 
