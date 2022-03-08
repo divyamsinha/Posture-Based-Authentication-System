@@ -8,7 +8,7 @@ Now program will create encoding of the user face and try match it with the stor
 
 ## Installation 
 
-pip install opencv-python==4.5.5.62 /n
+pip install opencv-python==4.5.5.62 <br />
 pip install face-recognition==1.3.0(first install visual studio in the system)
 pip install matplotlib==3.1.1
 pip install mediapipe==0.8.9.1
