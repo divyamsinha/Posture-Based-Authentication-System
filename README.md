@@ -19,7 +19,7 @@ pip install opencv-python==4.5.5.62 <br />
 ## Face Encoding.py
 
 
-def Encode_Images(path):
+def Encode_Images(path): <br />
 <t />   ce = create_Encoding(path)<br />
 <t />   ce.encode_image()<br />
 
