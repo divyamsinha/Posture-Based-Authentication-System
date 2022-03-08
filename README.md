@@ -18,10 +18,11 @@ pip install opencv-python==4.5.5.62 <br />
 
 ## Face Encoding.py
 
-
-def Encode_Images(path): <br />
-<pre>   ce = create_Encoding(path)</pre><br />
-<pre>   ce.encode_image()</pre><br />
+<pre>
+def Encode_Images(path): 
+    ce = create_Encoding(path)
+    ce.encode_image()
+ </pre>
 
 
 Pass the file location where the photo of the users are stored with a '/' at the end
