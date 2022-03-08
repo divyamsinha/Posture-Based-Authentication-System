@@ -1,9 +1,9 @@
 # Posture Detection Authentication System
 
-The project is mainly focused on facial recognition and posture detection 
-An image will be displayed and the user has to mimic the same posture.
-Program will detect the posture of body and hand.
-Now program will create encoding of the user face and try match it with the stored face encoding  of user.
+The project is mainly focused on facial recognition and posture detection.</br>
+An image will be displayed and the user has to mimic the same posture. </br>
+The program will detect the posture of the body and hand. </br>
+Now the program will create an encoding of the user's face and try to match it with the stored face encoding of the user.</br>
 
 
 ## Installation 
