@@ -330,7 +330,3 @@ def Verify(Gesture_Image , Selfie_Image):
     else :
         print("Access Denied !!!!")
         return False
-
-
-Verify(Gesture_Image,Selfie_Image)
-
